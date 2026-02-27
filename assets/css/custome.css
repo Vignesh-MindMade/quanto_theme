@@ -1,0 +1,23 @@
+/* home page */
+
+/* sticky header */
+.quanto-header.dark-header.sticky-menu {
+    background-color: var(--color-blue);
+}
+
+/* company logo */
+.header-logo.custome-logo {
+    max-width: 220px;
+    padding: 15px 0;
+}
+
+/* sidebar logo */
+.short-info.side-company-logo img {
+    width: 200px;
+    height: auto;
+}
+
+/* header line */
+.quanto-header.has-border-bottom .container.white-line {
+    border-bottom: 1px solid #ffffff;
+}
