@@ -21,3 +21,11 @@
 .quanto-header.has-border-bottom .container.white-line {
     border-bottom: 1px solid #ffffff;
 }
+
+/* footer */
+
+.footer-widgets-wrapper.footer-grid {
+    display: grid;
+    grid-template-columns: repeat(6, minmax(0, 1fr));
+    gap: 20px;
+}
